@@ -31,7 +31,8 @@ A dynamic and interactive **Ladder Lottery** (known as *Amida-kuji* in Japan) bu
 This app is part of a global initiative to release **50+ high-quality mini-apps**. I aim to provide efficient, reliable, and engaging tools that add joy to everyday decision-making.
 
 ### Explore the Portfolio
-- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
+- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7266451443285436081)
+- [App Store Developer Page](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 - [YouTube Channel - Try This App Now](https://www.youtube.com/@TryThisAppNow)
 
 ---
