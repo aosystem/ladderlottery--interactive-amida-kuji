@@ -6,6 +6,9 @@ A dynamic and interactive **Ladder Lottery** (known as *Amida-kuji* in Japan) bu
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6472172570)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/88tYOIJFTZc/0.jpg)](https://www.youtube.com/watch?v=88tYOIJFTZc)
+
 ## 🌟 Key Features
 - **Dynamic Creation:** Supports group sizes from 2 up to 9 participants.
 - **Shuffle Mechanic:** A dedicated shuffle button reorders start and goal positions for complete fairness.
